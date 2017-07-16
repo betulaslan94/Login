@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="btnName">Login</string>
+    <string name="txtLoginPage">Login Page</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnBack">Geri Git</string>
+</resources>
